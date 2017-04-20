@@ -4,13 +4,18 @@ Trabalho desenvolvido durante a disciplina de BD
 # Sumário
 
 ### 1.COMPONENTES<br>
-Integrantes do grupo<br>
+Milena Gomes e Luiza Alves<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
 
 ### 3.MINI-MUNDO<br>
-Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
+    Pesquisas realizadas em alguns estados no Brasil identificou que é registrado um alto índice de pessoas desaparecidas, o maior número delas são pessoas que sofrem de algum problema de perda de memória ou distúrbio mental. <br>
+    A polícia civil do estado do Espirito Santo, desenvolveu um meio de localizar com maior velocidade as famílias, quando aparecer alguém que se perdeu, ou esqueceu suas informações pessoais.<br>
+    A localização ocorre da seguinte forma, toda família que possuir alguém com alzheimer ou qualquer distúrbio mental diagnosticado por um médico, pode fazer um cadastro no site ou procurar uma delegacia/hospital mais próximo para esse cadastro, nele conterá dados de familiares responsáveis e da pessoaque precisará do serviço.<br>
+     Nos dados da pessoa responsável pelo cadastro, conterá nome completo, data de nascimento, sexo,endereço (CEP, bairro, cidade, estado, rua e número da residência), CPF e deve ser anexada uma foto para identificação, nos dados dos responsáveis deve ser preenchido individualmente, nome completo, grau de parentesco, cpf, telefone, endereço (CEP, bairro, cidade, estado, rua e o número de residência) e local de trabalho com endereço ( CEP, bairro, cidade, estado, rua e o número do local de trabalho) e telefone.<br>
+    No final do cadastro, o responsável ira receber um QR CODE seguro (onde terá todas as informações dadas no ato do cadastro), que deverá ser usada pela pessoa que precisará do serviço, assim, caso a pessoa desapareça, seja encontrada e levada a uma delegacia ou um policial mais próximo, a polícia terá o código para ler o QR CODE e ter todos os dados para fazer o contato
+com a família. <br>
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
