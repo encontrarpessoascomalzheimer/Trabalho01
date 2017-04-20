@@ -36,7 +36,7 @@ famílias, quando aparecer alguém que se perdeu, ou esqueceu suas informações
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
-Link balsamiq: https://sistemaparaencontrardesa.mybalsamiq.com/projects/trabalho/grid<br>
+Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/prototipo-balsamiq.pdf<br>
 
 ![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
 
