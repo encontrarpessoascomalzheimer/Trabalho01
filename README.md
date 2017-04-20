@@ -1,17 +1,17 @@
 # TRABALHO 01
-Trabalho desenvolvido durante a disciplina de BD
+Trabalho desenvolvido durante a disciplina de Banco de Dados.
 
 # Sumário
 
 ### 1.COMPONENTES<br>
-Milena Gomes e Luiza Alves<br>
+Milena Gomes e Luíza Alves.<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
+Este documento contém a especificação do projeto do banco de dados "Encontrar pessoas com alzheimer". O projeto foi desenvolvido pensando no alto indice de pessoas desaparecidas por problemas relacionados a doenças que não conseguem ser encontradas devido ao esquecimento causado pelo alzheimer. A idéia é criar um banco de dados onde familiares podem cadastrar a pessoa com a doença e caso ela desapareça a policia poderá entrar em contato com a familia utilizando as informações contidas nele. Isso facilitaria o encontro da familia com a pessoa desaparecida. <br>
 
 ### 3.MINI-MUNDO<br>
 
-Descritivo<br>
+Descritivo do projeto:<br>
     Pesquisas realizadas em alguns estados no Brasil identificou que é registrado um alto índice de pessoas 
 desaparecidas, o maior número delas são pessoas que sofrem de algum problema de perda de memória ou distúrbio
 mental. <br>
@@ -36,7 +36,7 @@ famílias, quando aparecer alguém que se perdeu, ou esqueceu suas informações
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
+Link balsamiq: https://sistemaparaencontrardesa.mybalsamiq.com/projects/trabalho/grid<br>
 
 ![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
 
