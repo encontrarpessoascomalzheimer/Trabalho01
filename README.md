@@ -48,7 +48,7 @@ Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/ma
     b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 #### 5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
+    [Grupo01]: Jefferson e Flavia
     [Grupo02]: [Nomes dos que participaram na avaliação]
 
 #### 5.2 DECISÕES DE PROJETO
@@ -74,6 +74,9 @@ Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/ma
         
  
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
+Código com Insert nas tabelas:
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/parte1_insert%2Bcreate.png
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/parte2.png
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
         Referenciar todas as fontes referentes a :
@@ -82,6 +85,11 @@ Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/ma
         c) fontes de estudo para desenvolvimento do projeto
         
 #### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
+Teste de criação do database e insert:
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/TESTE1CREATE.png
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/TESTE001.png
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/TESTE002.png
+
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
         b) inclusão das instruções de inserção dos dados nas referidas tabelas
         c) inclusão das instruções para execução de outros procedimentos necessários
