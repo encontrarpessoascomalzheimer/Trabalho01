@@ -68,7 +68,7 @@ Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/ma
 
 
 ### 6	MODELO LÓGICO<br>
-("https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/logico%20final.png")
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/logico%20final.png)
 ### 7	MODELO FÍSICO<br>
 
         Entrega até este ponto em (data a ser definida)
