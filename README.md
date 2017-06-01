@@ -43,7 +43,7 @@ Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/ma
 
 ### 5.MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text]("https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/conceitual%20final.png")
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/conceitual%20final.png)
     
     b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
