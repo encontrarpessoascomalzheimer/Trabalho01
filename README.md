@@ -70,9 +70,7 @@ Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/ma
 ### 6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/logico%20final.png)
 ### 7	MODELO FÍSICO<br>
-
-        Entrega até este ponto em (data a ser definida)
-        
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/fisico.sql)
  
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 Código com Insert nas tabelas:
