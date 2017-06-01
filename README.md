@@ -53,16 +53,15 @@ Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/ma
 #### 5.2 DECISÕES DE PROJETO
     Modelos
     
-    a) Campo endereço: em nosso projeto optamos por varias tabelas para bairro, cidade e estado.<br>
-    Campo de contato: decidimos separar, colocando duas tabelas.<br>
-    b) Fizemos isso para não ouver muita repetição desnecessária<br>
+    a) Campo endereço: em nosso projeto optamos por varias tabelas para bairro, cidade e estado.
+    Campo de contato: decidimos separar, colocando duas tabelas.
+    b) Fizemos isso para não ouver muita repetição desnecessária.
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
     [objeto]: [descrição do objeto]
-    
-    EXEMPLO:
-    ENDEREÇo: Tabela que armazena os endereços colocamos um código para identificar. <br>
-    CONTATO: Tem duas tabelas para identificar o tipo de contato(telefone fixo, celular e email) e a outra tabela vai conter esses daodos.<br>
+   
+    ENDEREÇo: Tabela que armazena os endereços colocamos um código para identificar. 
+    CONTATO: Tem duas tabelas para identificar o tipo de contato(telefone fixo, celular e email) e a outra tabela vai conter esses daodos.
 
 
 ### 6	MODELO LÓGICO<br>
