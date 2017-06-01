@@ -149,7 +149,13 @@ cod_doenca INTEGER PRIMARY KEY,<br>
 descricao_doenca CHAR(50)<br>
 );<br>
 insert DOENCA (cod_doenca,descricao_doenca)<br>
+<br>
 values (74558,'Alzheimer');<br>
+select from PESSOA_Familiar_individuo_profissional where CPF_familiar is not null;<br>
+select from DOENCA where cod_remedio > 10;<br>
+select from PESSOA_Familiar_individuo_profissional where Sexo = 'M';<br>
+select from ESTADO where cod_estado = 5;<br>
+select form ESTADO where descricao_estado = 'ES';<br>
 
 https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/parte1_insert%2Bcreate.png
 https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/parte2.png
