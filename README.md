@@ -175,6 +175,7 @@ https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/TESTE002.
         
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
 OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/WHEREEE.png
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
 <br>
