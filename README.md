@@ -44,27 +44,25 @@ Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/ma
 ### 5.MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/conceitual%20final.png)
-    
-    b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
+ 
 
 #### 5.1 Validação do Modelo Conceitual
     [Grupo01]: Jefferson e Flavia
     [Grupo02]: [Nomes dos que participaram na avaliação]
 
 #### 5.2 DECISÕES DE PROJETO
-    [atributo]: [descrição da decisão]
+    Modelos
     
-    EXEMPLO:
-    a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
-    pode possuir para cada departamento mais de uma localização... 
-    b) justifique!
+    a) Campo endereço: em nosso projeto optamos por varias tabelas para bairro, cidade e estado.<br>
+    Campo de contato: decidimos separar, colocando duas tabelas.<br>
+    b) Fizemos isso para não ouver muita repetição desnecessária<br>
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
     [objeto]: [descrição do objeto]
     
     EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+    ENDEREÇo: Tabela que armazena os endereços colocamos um código para identificar. <br>
+    CONTATO: Tem duas tabelas para identificar o tipo de contato(telefone fixo, celular e email) e a outra tabela vai conter esses daodos.<br>
 
 
 ### 6	MODELO LÓGICO<br>
