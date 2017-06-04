@@ -53,8 +53,8 @@ Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/ma
 #### 5.2 DECISÕES DE PROJETO
     Modelos
     
-    a) Campo endereço: em nosso projeto optamos por varias tabelas para bairro, cidade e estado.
-    Campo de contato: decidimos separar, colocando duas tabelas.
+    a) Campo endereço: em nosso projeto optamos por dividir em várias tabelas como bairro, cidade e estado.
+    Campo de contato: este campo de contato decidimos separar para ter o tipo de contato que ele vai usar(email, telefone fixo e celular ).
     b) Fizemos isso para não ouver muita repetição desnecessária.
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
