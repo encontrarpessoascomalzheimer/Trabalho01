@@ -55,14 +55,14 @@ Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/ma
     
     a) Campo endereço: em nosso projeto optamos por dividir em várias tabelas como bairro, cidade e estado.
     Campo de contato: este campo de contato decidimos separar para ter o tipo de contato que ele vai usar(email, telefone fixo e celular ).
+    Dividimos a tabela "pessoa " em três, pois a maioria das informações serão as mesmas.
     b) Fizemos isso para não ouver muita repetição desnecessária.
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
     [objeto]: [descrição do objeto]
    
     ENDEREÇo: Tabela que armazena os endereços colocamos um código para identificar. 
-    CONTATO: Tem duas tabelas para identificar o tipo de contato(telefone fixo, celular e email) e a outra tabela vai conter esses daodos.
-
+ 
 
 ### 6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/logico%20final.png)
@@ -151,8 +151,6 @@ descricao_doenca CHAR(50)<br>
 insert DOENCA (cod_doenca,descricao_doenca)<br>
 values (74558,'Alzheimer');<br>
 
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/parte1_insert%2Bcreate.png
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/parte2.png
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
         Referenciar todas as fontes referentes a :
