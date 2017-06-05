@@ -48,7 +48,7 @@ Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/ma
 
 #### 5.1 Validação do Modelo Conceitual
     [Grupo01]: Jefferson e Flavia
-    [Grupo02]: [Nomes dos que participaram na avaliação]
+    [Grupo02]: Thainara e Julio Cezar
 
 #### 5.2 DECISÕES DE PROJETO
     Modelos
