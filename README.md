@@ -36,9 +36,9 @@ famílias, quando aparecer alguém que se perdeu, ou esqueceu suas informações
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
-Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/trabalho.pdf<br>
+Link protótipo:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/trabalho.pdf<br>
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/trabalho.pdf)
 
 
 ### 5.MODELO CONCEITUAL<br>
@@ -50,13 +50,63 @@ Link balsamiq:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/ma
     [Grupo01]: Jefferson e Flavia
     [Grupo02]: Thainara e Julio Cezar
 
-#### 5.2 DECISÕES DE PROJETO
-    Modelos
+#### 5.2 DECISÕES DE PROJETO 
+   TIPO_CONTATO
+   cod_tipocontat: chave primária simples, precisa-se de um código que identifique qual o tipo de contato utilizado como único (e-          mail,telefone,celular).
+   descricao_tipocont: atributo simples, precisa-se ligar o codigo a um tipo de contato.
     
-    a) Campo endereço: em nosso projeto optamos por dividir em várias tabelas como bairro, cidade e estado.
-    Campo de contato: este campo de contato decidimos separar para ter o tipo de contato que ele vai usar(email, telefone fixo e celular ).
-    Dividimos a tabela "pessoa " em três, pois a maioria das informações serão as mesmas.
-    b) Fizemos isso para não ouver muita repetição desnecessária.
+   CONTATO
+   cod_contato:chave primária simples, o contato precisa ter um código que o identifique como único.
+   descricao_Contato: atributo simples, precisa-se explicar o código do contato, qual o tipo utilizado.
+   
+   PESSOA
+   nome_completo: atributo simples, deve-se associar o nome ao código da pessoa.
+   sexo: atributo simples, precisa-se identificar o sexo da pessoa que utilizará o sistema.
+   data_nasc: atributo simples, precisa-se saber a data de nascimento da pessoa que utilizará o sistema.
+   
+   SEGURANCA
+   codigo_pessoa: chave primária, precisa-se de um codigo para identificar a pessoa como única.
+   senha: atributo simples, atribuir senha a um familiar ou profissional.
+   
+   FAMILIAR
+   grau_de_parentesco: atributo simples, identifica o grau de parentesco do familiar do individuo.
+   CPF_familiar: atributo simples, precisa-se do CPF do familiar.
+   
+   INDIVIDUO
+   CPF_individuo: atributo simples, precisa-se do CPF do individuo.
+   
+   PROFISSIONAL
+   cargo: atributo simples, identifica-se o cargo do profissional.
+   
+   TIPO_ENDERECO
+   cod_tipoend: chave primária, serve para identificar o tipo de endereço como único.
+   descricao_endereco: atributo simples, atribui o codigo do endereço ao tipo dele.
+   
+   BAIRRO
+   descricao_bairro: atributo simples, precisa-se saber o bairro que a pessoa mora.
+   cod_bairro: chave primária, existem vários bairros e é preciso identifica-lo como único.
+
+   ESTADO
+   cod_estado: chave primária, o estado precisa ter um código que o identifique como único.
+   descricao_estado: atributo simples, precisa-se atribuir um nome de estado a um código.
+    
+   CIDADE
+   cod_cidade: chave primária, a cidade precisa ter um código que a identifique como única.
+   descricao_cidade: atributo simples, precisa-se atribuir um nome de cidade a um código.
+   
+   REMEDIO
+   cod_remedio: chave primária, o remedio precisa de um código que o identifique como único.
+   descricao_remedio:atributo simples, atribui o codigo do remedio a qual o tipo dele.
+   horario_remedio: atributo simples, precisa-se do horario do uso do medicamento.
+   
+   DOENCA
+   cod_doenca:chave primária, a doença precisa de um código que a identifique como única.
+   descricao_doenca:atributo simples, atribui o codigo de doenca ao tipo de doenca.
+   
+   
+   
+   
+   
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
     [objeto]: [descrição do objeto]
