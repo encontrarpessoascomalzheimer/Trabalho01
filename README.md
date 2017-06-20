@@ -17,21 +17,20 @@ desaparecidas, o maior número delas são pessoas que sofrem de alzheimer ou alg
 mental. <br>
     A polícia civil do estado do Espirito Santo, desenvolveu um meio de localizar com maior velocidade as 
 famílias, quando ser encontrado alguém que se perdeu, ou esqueceu suas informações pessoais.<br>
-    A localização ocorre da seguinte forma, toda família que possuir alguém com alzheimer ou qualquer 
+    A localização ocorre da seguinte forma, se alguém da família que possuir alguma pesssoa com alzheimer ou qualquer 
  distúrbio mental diagnosticado por um médico, pode fazer um cadastro no site ou procurar uma delegacia/hospital
  mais próximo para esse cadastro, nele deverá conter dados de familiares responsáveis e da pessoa que precisará
  do serviço.<br>
-     Nos dados da pessoa responsável pelo cadastro, conterá nome completo, data de nascimento, sexo,
- endereço (CEP, bairro, cidade, estado, rua e número da residência), CPF e deve ser anexada 
+     Nos dados o individuo, conterá nome completo, data de nascimento, sexo,
+ endereço (CEP, bairro, cidade, estado, rua e número da residência), CPF, dados clinicos e deve ser anexada 
   uma foto para identificação, nos dados dos responsáveis deve ser preenchido individualmente,
  nome completo, grau de parentesco, cpf, telefone, endereço (CEP, bairro, cidade, estado, 
  rua e o número de residência) e local de trabalho com endereço ( CEP, bairro, cidade, estado,
  rua e o número do local de trabalho) e telefone.<br>
-    No final do cadastro, o responsável ira receber um QR CODE seguro (onde terá todas as 
- informações dadas no ato do cadastro), que deverá ser usada pela pessoa que precisará 
- do serviço, assim, caso a pessoa desapareça, seja encontrada e levada a uma delegacia 
- ou um policial mais próximo, a polícia terá o código para ler o QR CODE e ter todos os 
- dados para fazer o contato com a família. <br>
+    No final do cadastro, o responsável ira receber um QR CODE seguro (onde terá um código que quando precisar 
+ será lido pela policia),  que deverá ser usada pela pessoa que precisará do serviço, assim, caso a pessoa
+ desapareça, seja encontrada e levada a uma delegacia ou um policial mais próximo, a polícia terá o código para lero QR CODE
+ e para entrar no sistema e ver os dados e encontarar a familia. <br>
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
