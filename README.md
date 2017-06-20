@@ -123,6 +123,7 @@ Link protótipo completo: https://github.com/encontrarpessoascomalzheimer/Trabal
 Link do modelo físico completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/fisico.sql
  
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/commit/64a65a7d128b25be29799b93ca79f47ae2cc4ad1<br>
 
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
