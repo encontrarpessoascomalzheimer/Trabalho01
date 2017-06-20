@@ -47,16 +47,16 @@ Link protótipo completo: https://github.com/encontrarpessoascomalzheimer/Trabal
 
 #### 5.2 DECISÕES DE PROJETO 
    TIPO_CONTATO <br>
-   cod_tipocontat: chave primária simples, precisa-se de um código que identifique qual o tipo de contato utilizado como único (e-          mail,telefone,celular).<br>
+   cod_tipocontat: precisa-se de um código que identifique qual o tipo de contato utilizado como único (e-          mail,telefone,celular).<br>
    descricao_tipocont: atributo simples, precisa-se ligar o codigo a um tipo de contato.
     
    CONTATO <br>
-   cod_contato:chave primária simples, o contato precisa ter um código que o identifique como único.<br>
-   descricao_Contato: atributo simples, precisa-se explicar o código do contato, qual o tipo utilizado.
+   cod_contato: o contato precisa ter um código que o identifique como único.<br>
+   descricao_Contato:precisa-se explicar o código do contato, qual o tipo utilizado.
    
    PESSOA <br>
-   nome_completo: atributo simples, deve-se associar o nome ao código da pessoa.<br>
-   sexo: atributo simples, precisa-se identificar o sexo da pessoa que utilizará o sistema.<br>
+   nome_completo: deve-se associar o nome ao código da pessoa.<br>
+   sexo:  precisa-se identificar o sexo da pessoa que utilizará o sistema.<br>
    data_nasc: atributo simples, precisa-se saber a data de nascimento da pessoa que utilizará o sistema<br>
    
    SEGURANCA <br>
@@ -104,9 +104,16 @@ Link protótipo completo: https://github.com/encontrarpessoascomalzheimer/Trabal
    
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
-    [objeto]: [descrição do objeto]
-   
-    ENDEREÇo: Tabela que armazena os endereços colocamos um código para identificar. 
+   TIPO_CONTATO <br>
+   cod_tipocontat: chave primária simples,
+   descricao_tipocont: atributo simples,
+   CONTATO <br>
+   cod_contato:chave primária simples,
+   descricao_Contato: atributo simples,
+   PESSOA <br>
+   nome_completo: atributo simples,
+   sexo: atributo simples,
+   data_nasc: atributo simples,
  
 
 ### 6	MODELO LÓGICO<br>
