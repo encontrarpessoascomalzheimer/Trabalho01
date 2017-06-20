@@ -126,10 +126,6 @@ https://github.com/encontrarpessoascomalzheimer/Trabalho01/commit/64a65a7d128b25
         
 #### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
 Teste de criação do database e insert:
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/TESTE1CREATE.png
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/TESTE001.png
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/TESTE002.png
-
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
         b) inclusão das instruções de inserção dos dados nas referidas tabelas
         c) inclusão das instruções para execução de outros procedimentos necessários
@@ -143,11 +139,6 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
 <br>
-select from PESSOA_Familiar_individuo_profissional where CPF_familiar is not null;<br>
-select from DOENCA where cod_remedio > 10;<br>
-select from PESSOA_Familiar_individuo_profissional where Sexo = 'M';<br>
-select from ESTADO where cod_estado = 5;<br>
-select form ESTADO where descricao_estado = 'ES';<br>
 
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
