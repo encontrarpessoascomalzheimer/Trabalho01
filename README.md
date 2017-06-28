@@ -126,20 +126,20 @@ Link do insert completo: https://github.com/encontrarpessoascomalzheimer/Trabalh
         c) fontes de estudo para desenvolvimento do projeto
         
 #### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
-![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/0.PNG <br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/1.PNG <br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/10.PNG <br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/11.PNG <br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/12.PNG <br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/13.PNG <br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/2.PNG <br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/3.PNG <br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/4.PNG <br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/5.PNG <br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/6.PNG <br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/7.PNG <br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/8.PNG <br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/9.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/0.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/1.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/10.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/11.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/12.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/13.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/2.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/3.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/4.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/5.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/6.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/7.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/8.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/9.PNG) <br>
 
         
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
