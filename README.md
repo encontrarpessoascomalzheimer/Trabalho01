@@ -114,7 +114,8 @@ Link protótipo completo: https://github.com/encontrarpessoascomalzheimer/Trabal
 Link do modelo físico completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/modelo_fisico.sql
  
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
-https://github.com/encontrarpessoascomalzheimer/Trabalho01/commit/64a65a7d128b25be29799b93ca79f47ae2cc4ad1<br>
+Exemplo: ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/1.PNG) <br>
+Link do insert completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/modelo_insert.sql<br>
 
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
@@ -124,13 +125,21 @@ https://github.com/encontrarpessoascomalzheimer/Trabalho01/commit/64a65a7d128b25
         c) fontes de estudo para desenvolvimento do projeto
         
 #### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
-Teste de criação do database e insert:
-        a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
-        b) inclusão das instruções de inserção dos dados nas referidas tabelas
-        c) inclusão das instruções para execução de outros procedimentos necessários
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/0.PNG <br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/1.PNG <br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/10.PNG <br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/11.PNG <br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/12.PNG <br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/13.PNG <br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/2.PNG <br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/3.PNG <br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/4.PNG <br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/5.PNG <br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/6.PNG <br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/7.PNG <br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/8.PNG <br>
+https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/9.PNG) <br>
 
-
-        Entrega até este ponto em (data a ser definida)
         
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
 OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
