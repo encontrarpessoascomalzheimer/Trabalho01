@@ -46,8 +46,8 @@ Link protótipo completo: https://github.com/encontrarpessoascomalzheimer/Trabal
     [Grupo02]: Thainara Amaral e Julio Cezar.
 
 #### 5.2 DECISÕES DE PROJETO 
-    TABELA ENDEREÇO: Nessa tabela decidimos separar bairro, cidade e estado, pois pode houver muita repetição desnecessária<br>
-    TABELA CONTATO: No contato colocamos uma tabela para identificar qual vai ser o tipo de contato(telefone fixo, celular e email) no contato que colocamos o numero, o endereço do email..
+    TABELA ENDEREÇO: Nessa tabela decidimos separar bairro, cidade e estado, pois pode houver muita repetição desnecessária <br>
+    TABELA CONTATO: No contato colocamos uma tabela para identificar qual vai ser o tipo de contato(telefone fixo, celular e email) no <br> contato que colocamos o numero, o endereço do email..
     
    
    
@@ -110,9 +110,8 @@ Link protótipo completo: https://github.com/encontrarpessoascomalzheimer/Trabal
 
 ### 6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/logico%20final.png)
-### 7	MODELO FÍSICO<br>
-![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/2.png) <br>
-Link do modelo físico completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/fisico.sql
+### 7	MODELO FÍSICO<br>r/2.png) <br>
+Link do modelo físico completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/modelo_fisico.sql
  
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 https://github.com/encontrarpessoascomalzheimer/Trabalho01/commit/64a65a7d128b25be29799b93ca79f47ae2cc4ad1<br>
