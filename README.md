@@ -114,7 +114,7 @@ Link protótipo completo: https://github.com/encontrarpessoascomalzheimer/Trabal
 Link do modelo físico completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/modelo_fisico.sql
  
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
-Exemplo: <br>
+Print do exemplo: <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/1.PNG) <br>
 Link do insert completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/modelo_insert.sql<br>
 
