@@ -118,7 +118,7 @@ Link do modelo físico completo: https://github.com/encontrarpessoascomalzheimer
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 Print do exemplo: <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/1.PNG) <br>
-Link do insert completo:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/INSERTNOVO.sql<br>
+Link do insert completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/INSERTNOVO.sql<br>
 
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
@@ -140,7 +140,7 @@ Link do insert completo:https://github.com/encontrarpessoascomalzheimer/Trabalho
 
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/2.PNG) <br>
 
-![Alt text](eldkjs) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/novo.PNG) <br>
 
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/4.PNG) <br>
 
@@ -165,6 +165,7 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
+Link do UPDATE E DELETE completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/ATUALIZACAOEEXCLUSAO.sql
 #### 9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
 #### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
 Exemplo do resultado da consulta: <br>
