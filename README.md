@@ -118,7 +118,7 @@ Link do modelo físico completo: https://github.com/encontrarpessoascomalzheimer
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 Print do exemplo: <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/1.PNG) <br>
-Link do insert completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/modelo_insert.sql<br>
+Link do insert completo:https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/INSERTNOVO.sql<br>
 
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
