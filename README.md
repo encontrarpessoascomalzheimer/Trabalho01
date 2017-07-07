@@ -45,9 +45,11 @@ Link protótipo completo: https://github.com/encontrarpessoascomalzheimer/Trabal
     [Grupo01]: Jefferson Napomuceno e Flavia Lordes.
     [Grupo02]: Thainara Amaral e Julio Cezar.
 
-#### 5.2 DECISÕES DE PROJETO 
-    TABELA ENDEREÇO: Nessa tabela decidimos separar bairro, cidade e estado, pois pode houver muita repetição desnecessária <br>
-    TABELA CONTATO: No contato colocamos uma tabela para identificar qual vai ser o tipo de contato(telefone fixo, celular e email) no <br> contato que colocamos o numero, o endereço do email..
+#### 5.2 DECISÕES DE PROJETO <br>
+    TABELA TIPO_ENDEREÇO: Nessa tabela decidimos separar o tipo de endereço bairro, cidade e estado, pois iria existir uma repetição de     nomes de bairro, cidade e estados. <br>
+    TABELA TIPO_CONTATO: Nessa tabela decidimos separar o tipo de contato, ou seja, telefone fixo, celular, e-mail, rede social, etc,       pois também irá haver uma repetição do tipo de contato. <br>
+    TABELA SEGURANCA: Essa tabela foi criada com objetivo de armazenar os dados de segurança, como login e senha.
+   
     
    
    
