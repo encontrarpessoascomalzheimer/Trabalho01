@@ -167,7 +167,8 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
 #### 9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
 #### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
-Exemplo do resultado da consulta: ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/g1.PNG) <br>
+Exemplo do resultado da consulta: <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/g1.PNG) <br>
 Link do INSERT+GROUP BY completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/GROUPBY.sql
         
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
