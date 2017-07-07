@@ -128,8 +128,6 @@ Link do insert completo:https://github.com/encontrarpessoascomalzheimer/Trabalho
         c) fontes de estudo para desenvolvimento do projeto
         
 #### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
-![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/0.PNG) <br>
-
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/1.PNG) <br>
 
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/10.PNG) <br>
