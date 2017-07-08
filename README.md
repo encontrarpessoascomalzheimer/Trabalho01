@@ -162,6 +162,9 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
 
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/2017-07-08.png) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/where%202.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/where3.PNG) <br>
 <br>
 
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
