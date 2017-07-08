@@ -159,14 +159,20 @@ Link do insert completo: https://github.com/encontrarpessoascomalzheimer/Trabalh
 OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
 ![Alt text]()
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
+
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
 <br>
 
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
+Exemplo do resultado da consulta:
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/exemplolike.PNG) <br>
+Link do INSERT+LIKE completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/LIKE.sql
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
+
 Link do UPDATE E DELETE completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/ATUALIZACAOEEXCLUSAO.sql
 #### 9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
+
 #### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
 Exemplo do resultado da consulta: <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/g1.PNG) <br>
