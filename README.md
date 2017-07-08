@@ -226,8 +226,11 @@ Link do INSERT+GROUP BY completo: https://github.com/encontrarpessoascomalzheime
 #### 9.10	SUBCONSULTAS (Mínimo 3) <br>
 Exemplo do resultado da subconsulta: <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/EXEMPLOSUB.PNG) 
+
 <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/sub2.PNG)
 <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/sub3.PNG)
 Link de SUBCONSULTAS completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/SUBCONSULTA.sql
 
 
