@@ -163,7 +163,7 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
 
-![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/mi.PNG) 
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/wh.PNG) 
 <br>
 
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/where%202.PNG)
@@ -176,7 +176,14 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
 Exemplo do resultado da consulta: <br>
-![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/exemplolike.PNG) <br>
+
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/exemplolike.PNG)
+<br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/like1.PNG)
+<br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/like3.PNG)
+<br>
+
 Link do INSERT+LIKE completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/LIKE.sql
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
 
