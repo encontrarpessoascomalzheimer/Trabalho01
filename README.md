@@ -158,12 +158,14 @@ Link do insert completo: https://github.com/encontrarpessoascomalzheimer/Trabalh
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
 OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
 ![Alt text]()
+
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
 
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
 <br>
 
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
+
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
 Exemplo do resultado da consulta: <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/exemplolike.PNG) <br>
@@ -179,9 +181,16 @@ Exemplo do resultado da consulta: <br>
 Link do INSERT+GROUP BY completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/GROUPBY.sql
         
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
+
 #### 9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
+
 #### 9.10	SUBCONSULTAS (Mínimo 3) <br>
+Exemplo do resultado da subconsulta: <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/EXEMPLOSUB.PNG) <br>
+Link de SUBCONSULTAS completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/SUBCONSULTA.sql
+
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
+
 ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
         Entrega até este ponto em (data a ser definida )
