@@ -191,7 +191,10 @@ Link do INSERT+LIKE completo: https://github.com/encontrarpessoascomalzheimer/Tr
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
 
 Link do UPDATE E DELETE completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/ATUALIZACAOEEXCLUSAO.sql
+<br>
 #### 9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/join%201%20familiar%20e%20pessoa.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/join%202%20profi%20e%20seg.PNG) <br>
 
 #### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
 Exemplo do resultado da consulta: <br>
