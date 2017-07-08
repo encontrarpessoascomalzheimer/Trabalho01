@@ -165,7 +165,7 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
-Exemplo do resultado da consulta:
+Exemplo do resultado da consulta: <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/exemplolike.PNG) <br>
 Link do INSERT+LIKE completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/LIKE.sql
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
