@@ -213,6 +213,10 @@ Link do UPDATE E DELETE completo: https://github.com/encontrarpessoascomalzheime
 #### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
 Exemplo do resultado da consulta: <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/g1.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/group%20by2.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/group%20by3.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/group%20by4.PNG) <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/group%20by5.PNG) <br>
 Link do INSERT+GROUP BY completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/GROUPBY.sql
         
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
