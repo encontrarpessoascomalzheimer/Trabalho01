@@ -188,7 +188,7 @@ Link do INSERT+GROUP BY completo: https://github.com/encontrarpessoascomalzheime
 Exemplo do resultado da subconsulta: <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/EXEMPLOSUB.PNG) <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/2017-07-08.png)<br>
-![Alt text]()<br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/commit/74b0cf79e17c6ed776345d15e7d21db2e9972510)<br>
 Link de SUBCONSULTAS completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/SUBCONSULTA.sql
 
 
