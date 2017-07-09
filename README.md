@@ -220,7 +220,10 @@ Exemplo do resultado da consulta: <br>
 Link do INSERT+GROUP BY completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/GROUPBY.sql
         
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
-
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/right2.PNG)<br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/ri3.PNG)<br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/ri4.PNG)<br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/left1.PNG)<br>
 #### 9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
 
 #### 9.10	SUBCONSULTAS (Mínimo 3) <br>
