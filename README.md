@@ -174,7 +174,9 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 <br>
 
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/familiar.PNG)
+
 <br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/outros%20enderecos.PNG) <br>
 
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
 
