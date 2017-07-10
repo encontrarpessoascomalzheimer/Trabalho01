@@ -212,7 +212,8 @@ Link do UPDATE E DELETE completo: https://github.com/encontrarpessoascomalzheime
 #### 9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/join%201%20familiar%20e%20pessoa.PNG) <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/join%202%20profi%20e%20seg.PNG) <br>
-
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/join3%20familar%20senha.PNG)<br>
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/join4.PNG)<br>
 #### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
 Exemplo do resultado da consulta: <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/g1.PNG) <br>
@@ -220,7 +221,7 @@ Exemplo do resultado da consulta: <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/group%20by3.PNG) <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/group%20by4.PNG) <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/group%20by5.PNG) <br>
-Link do INSERT+GROUP BY completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/GROUPBY.sql
+
         
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
 ![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/right2.PNG)<br>
