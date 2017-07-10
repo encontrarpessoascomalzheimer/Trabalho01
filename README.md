@@ -39,7 +39,7 @@ Link protótipo completo: https://github.com/encontrarpessoascomalzheimer/Trabal
 
 ### 5.MODELO CONCEITUAL<br>
 
-![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/conceitual%20final.png)
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/modelo%20conceitual.PNG)
  
 #### 5.1 Validação do Modelo Conceitual
     [Grupo01]: Jefferson Napomuceno e Flavia Lordes.
@@ -111,9 +111,9 @@ Link protótipo completo: https://github.com/encontrarpessoascomalzheimer/Trabal
  
 
 ### 6	MODELO LÓGICO<br>
-![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/logico%20final.png)
+![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/fisico.PNG)
 ### 7	MODELO FÍSICO<br>
-Link do modelo físico completo: https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/modelo_fisico.sql
+Link do modelo físico completo:![Alt text](https://github.com/encontrarpessoascomalzheimer/Trabalho01/blob/master/modelo_fisico.sql)
  
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 Print do exemplo: <br>
