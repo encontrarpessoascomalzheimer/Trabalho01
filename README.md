@@ -244,6 +244,7 @@ Link de SUBCONSULTAS completo: https://github.com/encontrarpessoascomalzheimer/T
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 
 ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+As dificuldades foram relembrar os comandos e para fazer CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes).
 
         Entrega até este ponto em (data a ser definida )
         
